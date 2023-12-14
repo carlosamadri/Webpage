@@ -57,3 +57,6 @@ div{
     background-color: #FAF6F0;
     border: none #9FBB73;
 }
+li{
+    list-style: none;
+}
